@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  slate:
+    build: .
+    image: slate:latest
+    container_name: slate
+    volumes:
+      - ./output:/srv/slate/build
+      - ./source:/srv/slate/source
