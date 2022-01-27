@@ -1,0 +1,6 @@
+site_name: Constant Confusion
+nav:
+  - index.md
+  - This Project: other-thing-one.md
+  - Seems Awful Close: other-thing-two.md
+  - To That Other One: other-thing-three.md

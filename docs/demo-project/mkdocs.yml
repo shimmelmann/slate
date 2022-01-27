@@ -1,0 +1,7 @@
+site_name: Demo Project
+
+nav:
+  - index.md
+  - Thing One: thing-one.md
+  - Thing The Second: thing-two.md
+  - Thing Par Three: thing-three.md
